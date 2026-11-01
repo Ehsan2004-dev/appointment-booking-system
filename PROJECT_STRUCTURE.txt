@@ -1,0 +1,21 @@
+appointment_booking_django/
+├── manage.py
+├── requirements.txt
+├── README_FA.md
+├── config/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── asgi.py
+│   └── wsgi.py
+└── appointments/
+    ├── __init__.py
+    ├── apps.py
+    ├── models.py
+    ├── services.py
+    ├── admin.py
+    ├── migrations/
+    │   └── __init__.py
+    └── tests/
+        ├── __init__.py
+        └── test_models.py
